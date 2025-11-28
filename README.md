@@ -82,3 +82,30 @@ https://github.com/woowacourse-teams/2025-Turip
 ### 스터디 - Manifest-Android-Interview 스터디
 [스터디 레포지토리](https://github.com/woowacourse-study/2025-Manifest-Android-Interview-Study)
 - 책 [Manifest Android Interview](https://www.android.skydoves.me/)에서 학습한 내용을 PPT로 만들어서 설명하고 질의응답하는 스터디
+
+## 🌳 레벨4 & 레벨5 - 바퀴의 재발명 & 되돌아보기
+
+> 2025.09.02 ~ 2025.10.24, 2025.10.27 ~ 2025.11.28
+
+### 레벨 목표
+
+- Jetpack Compose, 선언형 UI에 대한 이해도를 높이고 프로그래밍하는 경험을 한다.
+- 현존하는 의존성 주입 라이브러리와 프레임워크를 바닥부터 다시 개발해 보는 경험을 통해 의존성 주입에 대해 깊이 이해한다.
+
+### 미션 기록
+
+| 미션                               | 레포지토리                                                              | PR & Reviews                                                         |
+| ---------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Compose 페이먼츠 1단계             | [android-payments](https://github.com/woowacourse/android-payments) | [PR-26](https://github.com/woowacourse/android-payments/pull/26) |
+| Compose 페이먼츠 2단계             | [android-payments](https://github.com/woowacourse/android-payments) | [PR-55](https://github.com/woowacourse/android-payments/pull/55) |
+| Compose 페이먼츠 3단계             | [android-payments](https://github.com/woowacourse/android-payments) | [PR-78](https://github.com/woowacourse/android-payments/pull/78) |
+| Compose 페이먼츠 4단계             | [android-payments](https://github.com/woowacourse/android-payments) | [PR-105](https://github.com/woowacourse/android-payments/pull/105)  |
+| 만들면서 배우는 DI 1단계             | [android-di](https://github.com/woowacourse/android-di) | [PR-172](https://github.com/woowacourse/android-di/pull/172) |
+| 만들면서 배우는 DI 2, 3단계          | [android-di](https://github.com/woowacourse/android-di) | [PR-184](https://github.com/woowacourse/android-di/pull/184) |
+| 만들면서 배우는 DI 4단계             | [android-di](https://github.com/woowacourse/android-di) | [PR-205](https://github.com/woowacourse/android-di/pull/205) |
+| 만들면서 배우는 DI 5단계             | [android-di](https://github.com/woowacourse/android-di) | [PR-231](https://github.com/woowacourse/android-di/pull/231) |
+
+### 스터디 - 안드로이드 복습 스터디
+
+- [다이스](https://github.com/moondev03), [오이](https://github.com/cucumber99), [제리](https://github.com/jerry8282)와 매주 월요일 3시간 동안 주제에 대해 의견을 주고받으며 자신만의 생각을 만들어 가는 스터디
+
